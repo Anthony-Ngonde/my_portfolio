@@ -8,7 +8,7 @@ const Hero = () => {
     <div id='home' className='hero'>
         <img src={profile_img} alt="" />
         <h1><span>I'm Anthony Ngonde,</span> fullstack developer based in Kenya</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ratione tempora deserunt non sit ad accusantium perferendis architecto nemo, numquam fuga perspiciatis sed animi cupiditate odio eaque reiciendis illum vel!</p>
+        <p>I am a fullstack developer from Nairobi, Kenya with 2 years of experience in multiple companies like Ecom Services Limited, Epsilon and Bodo Moller Chemie.</p>
         <div className='hero-action'>
           <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
           <div className='hero-cv'>My CV</div>

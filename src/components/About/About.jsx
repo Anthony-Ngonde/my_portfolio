@@ -12,38 +12,38 @@ const About = () => {
         </div>
         <div className="about-sections">
             <div className="about-left">
-                <img src={profile_img} alt="" />
+                <img src="https://files.oaiusercontent.com/file-lHfCnPIZuY3iPkKK63hjMCir?se=2024-09-23T13%3A09%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DIMG_9407.jpg&sig=6p5970uWNjCGFUyfhPnF6Y50N/3kFUIqo1M%2BFMMr3Fs%3D" alt="" width="401" height="602" />
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus aperiam temporibus minima voluptas deleniti qui, ullam laboriosam assumenda incidunt totam quia voluptate itaque dolorum ipsa sint doloribus officia! Odit, impedit.</p>
+                    <p>I am an experienced Fullstack Developer with over 2 years of professional expertise in the field. Throughout my career I have had the priviledge of collaborating with prestigious organizations, contributing to their success and growth.</p>
 
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur saepe suscipit quidem rerum maiores nisi molestias dolores est modi sed voluptate nostrum, totam sapiente aperiam eum aut, vitae ad necessitatibus!</p>
+                    <p>My passion for fullstack development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}}/></div>
 
-                    <div className="about-skill"><p>React Js</p><hr style={{width:"70%"}}/></div>
+                    <div className="about-skill"><p>Python</p><hr style={{width:"70%"}}/></div>
 
-                    <div className="about-skill"><p>Javascript</p><hr style={{width:"60%"}}/></div>
+                    <div className="about-skill"><p>React Js</p><hr style={{width:"60%"}}/></div>
 
-                    <div className="about-skill"><p>Python</p><hr style={{width:"50%"}}/></div>
+                    <div className="about-skill"><p>Javascript</p><hr style={{width:"50%"}}/></div>
                 </div>
             </div>
         </div>
         <div className="about-achievements">
             <div className="about-achievement">
-                <h1>3+</h1>
+                <h1>2+</h1>
                 <p>YEARS OF EXPERIENCE</p>
             </div>
             <hr />
             <div className="about-achievement">
-            <h1>90+</h1>
+            <h1>10+</h1>
             <p>PROJECTS COMPLETED</p>
         </div>
         <hr />
         <div className="about-achievement">
-        <h1>15+</h1>
+        <h1>5+</h1>
         <p>HAPPY CLIENTS</p>
     </div>
  </div>

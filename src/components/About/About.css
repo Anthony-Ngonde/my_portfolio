@@ -36,6 +36,10 @@
     gap: 80px;
 }
 
+.about-left img{
+    object-fit: contain;
+}
+
 .about-para{
     display: flex;
     flex-direction: column;
